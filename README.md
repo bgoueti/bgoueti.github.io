@@ -38,6 +38,25 @@ A concise summary of your professional background, key skills, and career goals.
 - Technologies used: Tech A, Tech B, Tech C.
 - Result or outcome (if applicable).
 
+- Banking Interface Portfolio, Computer Science | School Capstone Project 	GitHub   
+●	**Designed a user-friendly banking application using HTML, CSS, and JavaScript for account management. 
+●	**Built key features for account creation, balance checks, deposits, and withdrawals, enhancing JavaScript proficiency.
+●	**Ensured responsive design for optimal usability across various devices.
+
+In-Hospital Malaria Mortality Prediction, Data Science -  | School Capstone Project  	https://github.com/bgoueti 
+●	Developed a predictive model to assess in-hospital mortality based on various patient factors during hospitalization. 
+●	Validated the model to improve accuracy in predicting patient survival rates from Malaria.
+●	Created visualizations using Matplotlib and Seaborn to highlight similarities & differences between patient factors.
+●	Created animations of the visualizations with Plotly in order to show value to technical and non-technical clients
+●	Focused on model interpretation to understand significant predictors of malaria mortality.
+
+Data Analytics Dashboard Implementation, Project Management training Capstone project  	GitHub 
+●	Designed an interactive dashboard using tools/technologies such as Tableau, Power BI, other visualization tools that presented real-time data insights.
+●	Integrated multiple data sources, including SQL databases, APIs, Excel files, ensuring accurate information.
+●	Created comprehensive user manuals and training materials to facilitate dashboard adoption among team members.
+●	Generated analytical reports that provided actionable insights, leading to improving sales strategies, and enhancing customer engagement
+
+
 ## Certifications
 - **Certification Name**, Issuing Organization — *Month Year*
 
