@@ -48,12 +48,12 @@ BloomTech Institute Technology                                                  
 - Technologies used: Tech A, Tech B, Tech C.
 - Result or outcome (if applicable).
 
-# - Banking Interface Portfolio, Computer Science | School Capstone Project 	GitHub   
+# Banking Interface Portfolio, Computer Science | School Capstone Project 	GitHub   
     - Designed a user-friendly banking application using HTML, CSS, and JavaScript for account management. 
     - Built key features for account creation, balance checks, deposits, and withdrawals, enhancing JavaScript proficiency.
     - Ensured responsive design for optimal usability across various devices.
 
-# - In-Hospital Malaria Mortality Prediction, Data Science -  | School Capstone Project  	https://github.com/bgoueti 
+# In-Hospital Malaria Mortality Prediction, Data Science -  | School Capstone Project  	https://github.com/bgoueti 
     - Developed a predictive model to assess in-hospital mortality based on various patient factors during hospitalization. 
     - Validated the model to improve accuracy in predicting patient survival rates from Malaria.
     - Created visualizations using Matplotlib and Seaborn to highlight similarities & differences between patient factors.
