@@ -27,7 +27,7 @@ A concise summary of your professional background, key skills, and career goals.
 - Graduation Month Year
 - Relevant coursework or honors
 
-# University of Abidjan, Côte d’Ivoire  					                                          2015
+**University of Abidjan, Côte d’Ivoire**  					                                          2015
   - Master’s Degree in Applied Mathematics
   - **Relevant coursework**: Mechanics of Materials and Vibratory Phenomena
 
