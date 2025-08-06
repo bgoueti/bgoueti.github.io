@@ -48,7 +48,7 @@ BloomTech Institute Technology                                                  
 - Technologies used: Tech A, Tech B, Tech C.
 - Result or outcome (if applicable).
 
-**Banking Interface Portfolio, Computer Science | School Capstone Project**   
+#**Banking Interface Portfolio, Computer Science | School Capstone Project**   
     - Designed a user-friendly banking application using HTML, CSS, and JavaScript for account management. 
     - Built key features for account creation, balance checks, deposits, and withdrawals, enhancing JavaScript proficiency.
     - Ensured responsive design for optimal usability across various devices.
